@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|c:\\users\\user\\desktop\\last year\\database\\course work\\webform\\simplewebform\\ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:simplewebform\\ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\simplewebform\\pricingrule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:simplewebform\\pricingrule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\Payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\Booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Show.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\Show.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Hall.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\Hall.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\simplewebform\\cinema.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:simplewebform\\cinema.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\Movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\User.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:SimpleWebform\\User.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\complexwebform\\movietheathercityhalloccupancyperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:complexwebform\\movietheathercityhalloccupancyperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\TheaterCityHall_Movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:ComplexWebform\\TheaterCityHall_Movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\User_Ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{161DAFFB-D58A-47FC-B5CF-ACC69A3F92A3}|WebForm.csproj|solutionrelative:ComplexWebform\\User_Ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-08T20:44:16.349Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-17T11:48:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:38:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieTheatherCityHallOccupancyPerformer.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\MovieTheatherCityHallOccupancyPerformer.aspx",
+              "RelativeDocumentMoniker": "ComplexWebform\\MovieTheatherCityHallOccupancyPerformer.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\MovieTheatherCityHallOccupancyPerformer.aspx",
+              "RelativeToolTip": "ComplexWebform\\MovieTheatherCityHallOccupancyPerformer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:06:16.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TheaterCityHall_Movie.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\TheaterCityHall_Movie.aspx",
+              "RelativeDocumentMoniker": "ComplexWebform\\TheaterCityHall_Movie.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\TheaterCityHall_Movie.aspx",
+              "RelativeToolTip": "ComplexWebform\\TheaterCityHall_Movie.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:06:11.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User_Ticket.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\User_Ticket.aspx",
+              "RelativeDocumentMoniker": "ComplexWebform\\User_Ticket.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\ComplexWebform\\User_Ticket.aspx",
+              "RelativeToolTip": "ComplexWebform\\User_Ticket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:06:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PricingRule.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\PricingRule.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\PricingRule.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\PricingRule.aspx",
+              "RelativeToolTip": "SimpleWebform\\PricingRule.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:05:35.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Payment.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Payment.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Payment.aspx",
+              "RelativeToolTip": "SimpleWebform\\Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:05:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Ticket.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Ticket.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Ticket.aspx",
+              "RelativeToolTip": "SimpleWebform\\Ticket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:03:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Show.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Show.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Show.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Show.aspx",
+              "RelativeToolTip": "SimpleWebform\\Show.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:02:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hall.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Hall.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Hall.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Hall.aspx",
+              "RelativeToolTip": "SimpleWebform\\Hall.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:02:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cinema.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Cinema.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Cinema.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Cinema.aspx",
+              "RelativeToolTip": "SimpleWebform\\Cinema.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:01:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Movie.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Movie.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Movie.aspx",
+              "RelativeToolTip": "SimpleWebform\\Movie.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:00:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\User.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\User.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\User.aspx",
+              "RelativeToolTip": "SimpleWebform\\User.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T08:00:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Booking.aspx",
+              "RelativeDocumentMoniker": "SimpleWebform\\Booking.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Last year\\database\\course work\\WebForm\\SimpleWebform\\Booking.aspx",
+              "RelativeToolTip": "SimpleWebform\\Booking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-11T07:46:49.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
